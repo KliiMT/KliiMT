@@ -30,7 +30,7 @@ Linux                    0 hrs               ███████████�
 
 <!--END_SECTION:waka-->
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KliiM&langs_count=8&layout=compact&hide_border=true)](https://github.com/KliiM/github-readme-stats)     | ![Snow1's GitHub stats](https://github-readme-stats.vercel.app/api?username=KliiM&show_icons=true&hide_border=true&count_private=true)    |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KliiMT&langs_count=8&layout=compact&hide_border=true)](https://github.com/KliiMT/github-readme-stats)     | ![Snow1's GitHub stats](https://github-readme-stats.vercel.app/api?username=KliiMT&show_icons=true&hide_border=true&count_private=true)    |
 | ---- | ---- |
 
 <!--
